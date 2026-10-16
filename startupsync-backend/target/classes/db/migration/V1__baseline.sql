@@ -1,0 +1,2 @@
+-- Flyway baseline for existing StartupSync schema managed by Hibernate
+-- New tables are added in subsequent migrations.
